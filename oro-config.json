@@ -13,7 +13,7 @@
     {
       "entryPointMichelson": "(Right (Left {obj}))",
       "contractAddress": "KT1KED5irEjBqZsEjSz8i8WoBQCAVMJdcxEP",
-      "endPoint": "http://localhost:4000/api/players/getplayerpoints/all",
+      "endPoint": "https://tranquil-earth-81896.herokuapp.com/api/players/getplayerpoints/all",
       "fields": [
         {
           "type": "array",
